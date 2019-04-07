@@ -4,3 +4,6 @@
 [submodule "electron-react-redux-boilerplate"]
 	path = electron-react-redux-boilerplate
 	url = https://github.com/jschr/electron-react-redux-boilerplate.git
+[submodule "khophy"]
+	path = khophy
+	url = https://github.com/RatnadeepSimhadri/khophy.git

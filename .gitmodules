@@ -1,0 +1,6 @@
+[submodule "clipmaster-fem-v2"]
+	path = clipmaster-fem-v2
+	url = https://github.com/RatnadeepSimhadri/clipmaster-fem-v2.git
+[submodule "electron-react-redux-boilerplate"]
+	path = electron-react-redux-boilerplate
+	url = https://github.com/jschr/electron-react-redux-boilerplate.git
